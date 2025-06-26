@@ -1,5 +1,5 @@
 # VR-code
- Matlab based virtual reaility for flies
+ This is code to build a virtual reaility environment for fruit flies. 
 
 **Typical use would be to call the function "temp_reality_jump" (or an older version without jumps -- temp_reality). **
 
